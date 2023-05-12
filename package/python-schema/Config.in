@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_SCHEMA
+	bool "python-schema"
+	select BR2_PACKAGE_PYTHON_CONTEXTLIB2 # runtime
+	help
+	  Simple data validation library.
+
+	  https://github.com/keleshev/schema

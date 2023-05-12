@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_MACADDRESS
+	bool "python-macaddress"
+	help
+	  Like ``ipaddress``, but for hardware identifiers such as
+	  MAC addresses.
+
+	  https://github.com/mentalisttraceur/python-macaddress

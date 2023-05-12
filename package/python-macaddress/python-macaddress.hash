@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/macaddress/json
+md5  5b19c092a3e093f83139de62407492c9  macaddress-2.0.2.tar.gz
+sha256  1400ccdc28d747102d57ae61e5b78d8985872930810ceb8860cd49abd1e1fa37  macaddress-2.0.2.tar.gz
+# Locally computed sha256 checksums
+sha256  398666eea0e7ef11b3654b479f7f056b1ecb3bce5a3b77663c25278327568f20  LICENSE

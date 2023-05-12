@@ -1,0 +1,5 @@
+# md5, sha256 from https://pypi.org/pypi/asyncio-mqtt/json
+md5  efd3faae157b6368f5c9345cd7c73a42  asyncio_mqtt-0.16.1.tar.gz
+sha256  38416481bb7cc9613c6a1a8e58b8f9f9c9a522d93411003e8000e74ef2b7ed85  asyncio_mqtt-0.16.1.tar.gz
+# Locally computed sha256 checksums
+sha256  2cdee9e997c759749069649dfb9060fdb885da82bc50c0dcb4841b1dcab0b032  LICENSE
